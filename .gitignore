@@ -1,0 +1,4 @@
+# Ignore the large Mistral Model
+/bot_play/.env
+/bot_premium/.env
+/bot_premium/models/mistral-7b-instruct-v0.2-code-ft.Q5_K_M.gguf
